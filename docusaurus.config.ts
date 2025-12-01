@@ -7,7 +7,7 @@ console.log('🔑 OPEN_AI_API_KEY:', process.env.OPENAI_API_KEY ? 'Loaded ✅' :
 
 const config: Config = {
   title: 'Physical AI & Humanoid Robotics',
-  tagline: 'The Ultimate Guide to Embodied Intelligence',
+  tagline: 'The Ultimate Guide into the world of Robots',
   favicon: 'img/favicon.ico',
 
   
